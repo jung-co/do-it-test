@@ -1,2 +1,3 @@
 hello new file !
 next text :)
+third text
